@@ -1,7 +1,7 @@
-# Primeira edição do conteúdo do index.md
-### Adicionando a imagem
+# 1. Primeira edição do conteúdo do index.md
+### 2. Adicionando a imagem
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-### Testando o código
+### 3. Testando o código
 ```
 $ git init
 Repositório Git vazio inicializado em /Users/skills/Projects/recipe-repository/.git/
@@ -10,7 +10,7 @@ Repositório Git vazio inicializado em /Users/skills/Projects/recipe-repository/
 ``` javascript
 var myVar = "Olá, mundo!";
 ```
-### Adicionando uma lista de tarefa
+### 4. Adicionando uma lista de tarefa
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
